@@ -1,0 +1,23 @@
+.label color_byte_underline=$87d
+.label filename=$991
+.label filename_length=$990
+.label spriteset_data=$b00
+.label mainloop=$83f
+.label dir_presskey_text=$980
+.label poke_screen=$8ae
+.label set_filename_buffer_1=$94b
+.label set_filename_buffer_2=$960
+.label color_byte=$87c
+.label zeroize_filename_buffer=$975
+.label drive_number=$98f
+.label show_drive_status=$918
+.label sds_loop=$939
+.label filename2=$ad2
+.label filename1=$ab1
+.label sprite_image_0=$b00
+.label begin_code=$810
+.label load_loading=$90f
+.label load_data=$87e {
+}
+.label sds_devnp=$94a
+.label sds_eof=$946
