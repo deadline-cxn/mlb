@@ -3,7 +3,7 @@
 // for the commodore 64
 
 //.segmentdef sprites
-//.file [name="cxn.spr", segments="sprites"]
+//.file [name="_in.spr", segments="sprites"]
 
 #import "Constants.asm"
 
